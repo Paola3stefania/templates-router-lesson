@@ -3,7 +3,7 @@
 Simple examples for &lt;template> tag in html and router example using location.hash .
 
 ## Template folder
-You will find an really simple and easy example of `&lt;template>` HTML tag implementation.
+You will find an really simple and easy example of `<template>` HTML tag implementation.
 
 ## Router Folder
 `location.hash` based code for creation of a basic - really basic actually - navigation emulating 
