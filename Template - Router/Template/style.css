@@ -1,0 +1,19 @@
+.content {
+  margin: 0 auto;
+  width: 90vw;
+}
+
+.content__card {
+  border: 0.5rem black solid;
+
+}
+
+.card__title {
+  text-align: center;
+  text-transform: uppercase;
+}
+
+.card__text {
+  text-align: left;
+  padding-left: 10vw
+}
